@@ -1,6 +1,6 @@
 # 🎬 Indian Movie Success Predictor (XGBoost)
 
-[![Streamlit App: FilmGenie]](https://filmgenie.streamlit.app)
+[FilmGenie](https://filmgenie.streamlit.app)
 
 ## 📌 Project Overview
 A machine learning-driven application designed to predict the success of Indian movies ('Hit', 'Average', or 'Flop'). By leveraging a custom-curated dataset of 10,000+ films and advanced feature engineering like **Target Encoding** and **Weighted Crew Indices**, this project provides data-backed insights for filmmakers and distributors.
